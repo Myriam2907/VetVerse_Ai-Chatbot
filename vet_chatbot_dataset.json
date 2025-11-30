@@ -1,0 +1,1373 @@
+[
+  {
+    "id": 1,
+    "question": "My dog ate chocolate, what should I do?",
+    "answer": "Chocolate is toxic to dogs and this is a medical emergency. The severity depends on the type of chocolate (dark chocolate is most dangerous), amount consumed, and your dog's size. Immediately call your veterinarian or pet poison control. Do not induce vomiting unless instructed by a vet. Symptoms of chocolate poisoning include vomiting, diarrhea, rapid breathing, increased heart rate, seizures, and restlessness. These can appear within 6-12 hours. Time is critical - the sooner treatment begins, the better the outcome. Keep the chocolate wrapper to show your vet what type and how much was consumed.",
+    "urgency": "emergency",
+    "keywords": ["chocolate", "poisoning", "toxic", "emergency"],
+    "species": "dog",
+    "category": "emergency_poisoning"
+  },
+  {
+    "id": 2,
+    "question": "How often should I feed my cat?",
+    "answer": "Adult cats should typically be fed 2-3 times per day. Kittens (under 6 months) need more frequent feeding - 3-4 times daily due to their higher energy needs and smaller stomachs. The total daily amount depends on your cat's age, weight, activity level, and the type of food. Most adult cats need about 24-35 calories per pound of body weight per day. It's better to follow the feeding guidelines on your cat food package and adjust based on your cat's body condition. Free-feeding (leaving food out all day) can lead to obesity in some cats, so scheduled meals are often recommended. Always provide fresh water and consult your vet about the best feeding plan for your specific cat.",
+    "urgency": "routine",
+    "keywords": ["feeding", "diet", "nutrition", "frequency"],
+    "species": "cat",
+    "category": "general_care"
+  },
+  {
+    "id": 3,
+    "question": "My dog has been vomiting all morning, should I be worried?",
+    "answer": "Vomiting can range from minor to serious depending on frequency and accompanying symptoms. If your dog vomited once or twice but is otherwise acting normal, eating, drinking, and has normal energy, you can monitor at home. Withhold food for 6-8 hours (but not water), then introduce small amounts of bland food like boiled chicken and rice. However, seek immediate veterinary care if: your dog vomits repeatedly (more than 3 times), shows signs of pain or bloating, has blood in vomit, appears lethargic or weak, refuses water, has diarrhea along with vomiting, or if you suspect they ate something toxic. Puppies and senior dogs are more vulnerable to dehydration and should be seen sooner. Persistent vomiting can indicate serious conditions like intestinal blockage, pancreatitis, or kidney disease.",
+    "urgency": "urgent",
+    "keywords": ["vomiting", "digestive", "symptoms", "monitoring"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 4,
+    "question": "Is it normal for puppies to sleep a lot?",
+    "answer": "Yes, it's completely normal for puppies to sleep 18-20 hours per day. Puppies have bursts of high energy followed by long naps, which is essential for their growth and development. During sleep, their bodies release growth hormones and their brains process the day's learning. Young puppies (8-12 weeks) may sleep even more. As they mature into adolescence (3-6 months), they'll gradually sleep less, eventually reaching the adult dog average of 12-14 hours. However, excessive lethargy combined with other symptoms like loss of appetite, vomiting, or diarrhea could indicate illness. A healthy sleeping puppy should wake up alert, playful, and interested in food. If your puppy seems unusually difficult to wake or disinterested in activities they normally enjoy, consult your vet.",
+    "urgency": "routine",
+    "keywords": ["puppy", "sleep", "behavior", "normal"],
+    "species": "dog",
+    "category": "general_care"
+  },
+  {
+    "id": 5,
+    "question": "My cat is breathing really fast and her mouth is open, help!",
+    "answer": "Open-mouth breathing and rapid breathing in cats is a medical emergency. Unlike dogs, cats rarely pant, so this indicates severe distress. This could be due to heart disease, fluid in the lungs, asthma attack, blood clot, heatstroke, or respiratory infection. Get to an emergency vet immediately - do not wait. Keep your cat calm and cool during transport. Avoid restraining them if they're struggling, as stress can worsen breathing. Note the color of their gums (pale, blue, or bright red are all concerning) and how long this has been happening. Try to keep the carrier well-ventilated. This condition can deteriorate rapidly, so every minute counts. If your cat stops breathing or collapses, this is critical - go to the nearest emergency animal hospital right away.",
+    "urgency": "emergency",
+    "keywords": ["breathing", "respiratory", "emergency", "distress"],
+    "species": "cat",
+    "category": "emergency_breathing"
+  },
+  {
+    "id": 6,
+    "question": "What vaccines does my dog need?",
+    "answer": "Core vaccines recommended for all dogs include rabies, distemper, parvovirus, and adenovirus (hepatitis). Puppies typically receive a series of combination vaccines (DHPP) starting at 6-8 weeks, with boosters every 3-4 weeks until 16 weeks old. Rabies is given at 12-16 weeks. Non-core vaccines depend on lifestyle and risk factors: bordetella (kennel cough) for dogs that are boarded or go to dog parks, Lyme disease for dogs in tick-endemic areas, leptospirosis for dogs exposed to wildlife or standing water, and canine influenza for high-risk dogs. After the puppy series, most vaccines are boostered at one year, then every 1-3 years depending on the vaccine and local regulations. Your veterinarian will create a vaccination schedule tailored to your dog's age, health status, and lifestyle. Over-vaccination can be avoided through titer testing for some diseases.",
+    "urgency": "routine",
+    "keywords": ["vaccines", "vaccination", "preventive", "immunization"],
+    "species": "dog",
+    "category": "preventive_care"
+  },
+  {
+    "id": 7,
+    "question": "Why is my dog scratching so much?",
+    "answer": "Excessive scratching can have many causes. The most common are fleas, even if you don't see them - a single flea can cause intense itching in allergic dogs. Environmental allergies (pollen, dust mites, mold) are also very common, especially if scratching is seasonal. Food allergies, though less common than many believe, can cause year-round itching. Other causes include dry skin, contact dermatitis, parasites like mites or lice, bacterial or yeast infections, or anxiety-related behavior. Look for signs like red skin, hair loss, hot spots, or a foul odor. Check for fleas by looking for tiny black specks (flea dirt) on the skin. If scratching persists for more than a few days, causes skin damage, or your dog seems uncomfortable, see your vet. They can perform skin tests, prescribe appropriate medication, and help identify the underlying cause. Don't delay if your dog is scratching to the point of creating wounds.",
+    "urgency": "urgent",
+    "keywords": ["scratching", "itching", "skin", "allergies"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 8,
+    "question": "Can cats eat dog food?",
+    "answer": "No, cats should not eat dog food regularly. While an occasional bite won't cause harm, dog food lacks essential nutrients that cats require. Cats are obligate carnivores with unique nutritional needs that dog food doesn't meet. Most critically, cats need taurine, an amino acid found in animal tissues that dogs can synthesize themselves but cats cannot. Taurine deficiency in cats leads to serious heart disease (dilated cardiomyopathy), blindness, and reproductive problems. Cat food also contains higher levels of protein, certain vitamins (like vitamin A and niacin), and arachidonic acid - all essential for feline health. Long-term consumption of dog food can result in malnutrition, heart problems, vision issues, and weakened immune function. If you have both cats and dogs, feed them separately and ensure your cat eats only cat-formulated food. If your cat accidentally eats dog food occasionally, monitor them but don't panic - it's chronic consumption that causes problems.",
+    "urgency": "routine",
+    "keywords": ["diet", "nutrition", "dog food", "feeding"],
+    "species": "cat",
+    "category": "general_care"
+  },
+  {
+    "id": 9,
+    "question": "My dog was just hit by a car, what do I do?",
+    "answer": "This is a life-threatening emergency requiring immediate action. First, ensure your own safety - move away from traffic. Approach your dog carefully as injured animals may bite from pain and fear. If conscious and able to walk, prevent movement as there may be internal injuries or fractures. If unconscious, check for breathing and heartbeat. If not breathing, carefully extend the neck and check for airway obstruction. Do not give food or water. Carefully slide a board or blanket under your dog to transport them, keeping the spine as straight as possible. Cover them with a blanket to prevent shock. Get to an emergency vet immediately - call ahead so they can prepare. Even if your dog seems okay, internal injuries like internal bleeding or organ damage can be present without obvious external signs. All car-hit pets need immediate veterinary examination including X-rays and monitoring. Time is absolutely critical.",
+    "urgency": "emergency",
+    "keywords": ["trauma", "accident", "injury", "emergency"],
+    "species": "dog",
+    "category": "emergency_trauma"
+  },
+  {
+    "id": 10,
+    "question": "How do I know if my cat is sick?",
+    "answer": "Cats are masters at hiding illness, so watch for subtle changes in behavior. Key signs include changes in eating or drinking habits (either increase or decrease), weight loss, lethargy or hiding more than usual, changes in litter box habits, vomiting or diarrhea, bad breath, difficulty breathing, coughing, or discharge from eyes or nose. Behavioral changes like increased vocalization, aggression, or seeming disoriented can also indicate illness. Physical signs include a dull coat, pale gums, third eyelid showing, or hunched posture. Trust your instincts - you know your cat best. If something seems off, it's worth a vet check. Cats often don't show obvious symptoms until disease is advanced, so any persistent change lasting more than 24-48 hours warrants attention. Senior cats (over 7 years) should have wellness exams every 6 months. Early detection of illness significantly improves treatment outcomes.",
+    "urgency": "routine",
+    "keywords": ["symptoms", "illness", "signs", "health"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 11,
+    "question": "My dog ate grapes, is that bad?",
+    "answer": "Yes, grapes and raisins are extremely toxic to dogs and this is a medical emergency. Even small amounts can cause acute kidney failure. The exact toxic substance is unknown, and toxicity varies among individual dogs - some dogs may eat grapes without issue while others develop severe poisoning from just a few. Call your veterinarian or pet poison control immediately. Do not wait for symptoms to appear, as kidney damage can occur before symptoms are visible. Early symptoms (within hours) include vomiting, diarrhea, lethargy, and loss of appetite. Within 24-48 hours, signs of kidney failure may develop: decreased urination, extreme lethargy, bad breath, and abdominal pain. Treatment is most effective within the first few hours and may include inducing vomiting, activated charcoal, IV fluids, and kidney function monitoring. Keep all grapes, raisins, and foods containing them (trail mix, baked goods, etc.) away from dogs. The prognosis is good if treatment begins immediately.",
+    "urgency": "emergency",
+    "keywords": ["grapes", "poisoning", "toxic", "kidney"],
+    "species": "dog",
+    "category": "emergency_poisoning"
+  },
+  {
+    "id": 12,
+    "question": "Why does my cat knead with her paws?",
+    "answer": "Kneading, also called 'making biscuits,' is a normal, instinctive behavior that begins in kittenhood. Kittens knead their mother's belly to stimulate milk flow while nursing. Adult cats continue this behavior when they're content, relaxed, or seeking comfort. It's often accompanied by purring and is a sign your cat feels safe and happy with you. Some theories suggest cats also knead to mark territory, as their paws have scent glands. Others believe it's a way to make a soft sleeping spot, similar to wild cats preparing their resting area. If your cat kneads you, consider it a compliment - they're showing affection and trust. If the claws are uncomfortable, keep them trimmed, place a thick blanket between you and your cat, or gently redirect them to a soft surface. Never punish kneading as it's a positive, natural behavior. Some cats knead more than others, and there's significant individual variation in this behavior.",
+    "urgency": "routine",
+    "keywords": ["behavior", "kneading", "normal", "cat behavior"],
+    "species": "cat",
+    "category": "general_care"
+  },
+  {
+    "id": 13,
+    "question": "My dog has diarrhea, what should I give him?",
+    "answer": "Mild, acute diarrhea in an otherwise healthy dog can often be managed at home. Withhold food for 12-24 hours (but always provide water) to let the digestive system rest. Then introduce a bland diet: boiled chicken (no skin or seasoning) with white rice or boiled ground turkey with pumpkin. Feed small amounts frequently (3-4 times daily) rather than large meals. Gradually transition back to regular food over 3-5 days. Probiotics designed for dogs can help restore gut bacteria. However, seek veterinary care if: diarrhea lasts more than 24-48 hours, contains blood or is black/tarry, your dog shows other symptoms (vomiting, lethargy, loss of appetite), your dog is a puppy or senior, or if you suspect toxin ingestion. Chronic or severe diarrhea can lead to dehydration and electrolyte imbalances. Never give human anti-diarrheal medications without vet approval, as some (like Imodium) can be dangerous or mask serious conditions.",
+    "urgency": "urgent",
+    "keywords": ["diarrhea", "digestive", "treatment", "diet"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 14,
+    "question": "Do indoor cats need vaccines?",
+    "answer": "Yes, even indoor cats need certain vaccines. Rabies vaccination is required by law in most areas, regardless of indoor/outdoor status, because rabies is fatal and can be transmitted to humans. Indoor cats should also receive the FVRCP vaccine, which protects against feline viral rhinotracheitis, calicivirus, and panleukopenia (feline distemper). These highly contagious viruses can be brought into the home on shoes, clothing, or through windows/doors. Kittens need a series starting at 6-8 weeks, with boosters every 3-4 weeks until 16 weeks old, then at one year, and then typically every 1-3 years. The FeLV (feline leukemia) vaccine is recommended for kittens and cats that may escape outdoors or have contact with outdoor cats. Discuss your cat's specific risk factors with your vet. Some indoor cats may qualify for less frequent vaccination based on lifestyle and titer testing. Never skip rabies vaccines, as this protects both your cat and your family.",
+    "urgency": "routine",
+    "keywords": ["vaccines", "indoor cat", "preventive", "vaccination"],
+    "species": "cat",
+    "category": "preventive_care"
+  },
+  {
+    "id": 15,
+    "question": "My dog is limping on his back leg, what could it be?",
+    "answer": "Limping can result from many causes ranging from minor to serious. Common causes include sprains or strains from play or exercise, pad injuries (cuts, thorns, burns), arthritis especially in older dogs, torn ligaments (like ACL tears), hip dysplasia, patellar luxation (kneecap slipping), bone fractures, or tick-borne diseases like Lyme. First, examine the paw and leg for obvious injuries, swelling, or foreign objects. Check for pain when gently manipulating the leg. If limping is mild and your dog is otherwise comfortable, restrict activity and monitor for 24-48 hours. However, see your vet if: limping persists beyond 48 hours, limping is severe (not putting any weight on leg), there's visible swelling or deformity, your dog cries out in pain, or if accompanied by other symptoms like fever or lethargy. Sudden severe limping could indicate fracture or ACL tear requiring immediate attention. Puppies and large breed dogs with limping should be evaluated promptly, as some conditions worsen without treatment.",
+    "urgency": "urgent",
+    "keywords": ["limping", "leg", "pain", "injury"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 16,
+    "question": "How can I tell if my cat is in pain?",
+    "answer": "Cats hide pain instinctively, but there are subtle signs to watch for. Behavioral changes include decreased activity, reluctance to jump or climb, sleeping in unusual places (often seeking isolation), decreased grooming, or over-grooming a specific area. Changes in social behavior like increased aggression, irritability, or withdrawal are common. Physical signs include changes in posture (hunched, tense), changes in facial expression (squinting, flattened ears, tense facial muscles), decreased appetite, rapid breathing, or vocalization (though cats often suffer in silence). Litter box changes may occur - avoiding the box due to pain when posturing, or going more frequently with urinary issues. Weight loss, a dull coat, and reduced interaction are also indicators. Any persistent behavioral change warrants veterinary evaluation. Pain assessment scales and questionnaires can help you and your vet identify subtle signs. Never give human pain medications to cats - many are toxic. If you suspect pain, schedule a vet visit promptly, as untreated pain affects quality of life and healing.",
+    "urgency": "urgent",
+    "keywords": ["pain", "symptoms", "behavior", "signs"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 17,
+    "question": "My dog ate xylitol gum, what do I do?",
+    "answer": "Xylitol is extremely toxic to dogs - this is a life-threatening emergency requiring immediate action. Even small amounts cause a rapid, dangerous drop in blood sugar (hypoglycemia) within 10-60 minutes. Larger amounts cause acute liver failure. Symptoms include vomiting, weakness, loss of coordination, seizures, and collapse. Call your vet or pet poison control immediately - do not wait for symptoms. Time is critical. Your vet may instruct you to induce vomiting if ingestion was very recent, but this must be done quickly and properly. Rush to your vet or emergency clinic for treatment, which includes IV dextrose for blood sugar, liver protectants, and intensive monitoring. The prognosis depends on how quickly treatment begins and the amount ingested. Prevention is key: check all products for xylitol including sugar-free gum, candies, baked goods, peanut butter, toothpaste, and medications. Keep these products completely out of reach. The toxic dose is as low as 0.1 gram per kilogram of body weight.",
+    "urgency": "emergency",
+    "keywords": ["xylitol", "poisoning", "toxic", "emergency"],
+    "species": "dog",
+    "category": "emergency_poisoning"
+  },
+  {
+    "id": 18,
+    "question": "Why is my cat peeing outside the litter box?",
+    "answer": "Inappropriate urination has medical and behavioral causes that must be distinguished. Medical issues are most common and include urinary tract infections, bladder stones, kidney disease, diabetes, and arthritis making it painful to enter the box. Cats with medical issues often urinate in unusual places, strain while urinating, produce small amounts, or have blood in urine. See your vet first to rule out medical problems through urinalysis and physical exam. If medical causes are excluded, behavioral issues might include: litter box aversion (dirty box, wrong litter type, covered box, location), stress from changes in household, territorial marking (usually on vertical surfaces), or past negative experiences with the box. Solutions include: multiple clean litter boxes (one per cat plus one extra), unscented clumping litter, large uncovered boxes, boxes in quiet accessible locations, cleaning soiled areas with enzymatic cleaners, reducing stressors, and possible pheromone therapy. Senior cats may need boxes with lower sides. Never punish - this worsens anxiety and the problem.",
+    "urgency": "urgent",
+    "keywords": ["litter box", "urination", "behavior", "inappropriate elimination"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 19,
+    "question": "What human foods are toxic to dogs?",
+    "answer": "Many common human foods are dangerous or deadly to dogs. Never feed: chocolate (contains theobromine), grapes and raisins (kidney failure), onions and garlic (damage red blood cells), xylitol artificial sweetener (hypoglycemia and liver failure), macadamia nuts (weakness and tremors), avocado (contains persin), alcohol (even small amounts are toxic), caffeine, raw yeast dough (expands in stomach), fatty foods (can cause pancreatitis), and cooked bones (splinter risk). Other concerning foods include raw potatoes, cherry pits, apple seeds, and nutmeg. Many sugar-free products contain xylitol - always check labels. Symptoms of poisoning vary but may include vomiting, diarrhea, lethargy, seizures, difficulty breathing, or collapse. If your dog ingests any toxic food, contact your vet or pet poison control immediately with information about what was eaten and how much. Keep these foods completely inaccessible, educate family and guests, and be especially cautious during holidays when toxic foods are more prevalent. Safe treats include plain cooked chicken, carrots, blueberries, and plain pumpkin.",
+    "urgency": "routine",
+    "keywords": ["toxic foods", "poisoning", "diet", "human food"],
+    "species": "dog",
+    "category": "preventive_care"
+  },
+  {
+    "id": 20,
+    "question": "How often should I take my cat to the vet?",
+    "answer": "Vet visit frequency depends on age and health status. Kittens need frequent visits: every 3-4 weeks from 6-16 weeks for vaccines and development checks, then at 6 months for spay/neuter. Healthy adult cats (1-7 years) should have annual wellness exams including physical examination, weight check, dental assessment, and discussion of diet, behavior, and preventive care. Vaccines are given based on individual schedule. Senior cats (7+ years) benefit from twice-yearly exams, as they're at higher risk for kidney disease, hyperthyroidism, diabetes, and cancer. Semi-annual senior exams often include bloodwork to catch problems early. Cats with chronic conditions may need more frequent monitoring. Between regular visits, see your vet if you notice any changes in eating, drinking, litter box habits, behavior, or physical condition. Preventive care catches problems early when they're most treatable. Many serious conditions in cats develop gradually and aren't obvious to owners, making regular exams crucial for longevity and quality of life.",
+    "urgency": "routine",
+    "keywords": ["vet visit", "checkup", "preventive", "wellness"],
+    "species": "cat",
+    "category": "preventive_care"
+  },
+  {
+    "id": 21,
+    "question": "My dog is having a seizure right now, what should I do?",
+    "answer": "Stay calm and ensure safety for both you and your dog. Do not put your hands near their mouth - dogs cannot swallow their tongues and you risk being bitten. Move furniture and objects away to prevent injury. Note the time the seizure started. Most seizures last 1-3 minutes. After the seizure, your dog will be disoriented (post-ictal phase) - keep the area quiet and dark, speak softly, and don't restrain them. If this is the first seizure, a seizure lasts longer than 5 minutes, multiple seizures occur within 24 hours, or your dog doesn't regain consciousness between seizures, this is an emergency - get to a vet immediately. Status epilepticus (continuous seizing) can cause brain damage. If seizures are brief and isolated, schedule a vet visit soon for evaluation. Causes include epilepsy, toxins, brain tumors, liver disease, or low blood sugar. Your vet will perform bloodwork, possibly brain imaging, and may prescribe anti-seizure medication if needed.",
+    "urgency": "emergency",
+    "keywords": ["seizure", "convulsion", "emergency", "neurological"],
+    "species": "dog",
+    "category": "emergency_neurological"
+  },
+  {
+    "id": 22,
+    "question": "Can I give my dog Benadryl for allergies?",
+    "answer": "Benadryl (diphenhydramine) can be safe for dogs when used appropriately, but always consult your vet first. The general dose is 1mg per pound of body weight, given 2-3 times daily. However, dosing depends on the specific product and your dog's health conditions. Use only plain Benadryl without added ingredients like decongestants, acetaminophen, or alcohol, which are toxic to dogs. Benadryl can help with mild allergic reactions, itching, insect bites, or motion sickness. It should not be used for severe allergic reactions (anaphylaxis), respiratory distress, or if your dog has glaucoma, high blood pressure, cardiovascular disease, or bladder issues without vet approval. Side effects include drowsiness, dry mouth, urinary retention, or rarely, hyperactivity. If symptoms don't improve within 24 hours or worsen, see your vet. Chronic allergies require proper diagnosis and treatment plan, not just symptom management. Your vet may recommend prescription alternatives that are more effective for long-term use.",
+    "urgency": "routine",
+    "keywords": ["Benadryl", "medication", "allergies", "treatment"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 23,
+    "question": "Why does my cat have a bald spot?",
+    "answer": "Hair loss in cats has numerous causes. Over-grooming due to stress, anxiety, or compulsive behavior can create bald patches, often symmetrical. Allergies (food, environmental, or flea) cause intense itching and hair loss. Ringworm, a fungal infection, creates circular bald spots with scaly skin. Parasites like mites cause hair loss and intense scratching. Hormonal imbalances, though rare, can cause symmetrical hair loss. Pain from arthritis or dental disease may cause grooming of specific areas. Skin infections (bacterial or yeast) result in hair loss with redness, odor, or crusting. Examine the area: is the skin normal, red, scaly, or crusty? Is your cat scratching or grooming excessively? Note the pattern and location. Schedule a vet visit for examination, possible skin scraping, fungal culture, or bloodwork. Treatment depends on the cause: antifungals for ringworm, parasite prevention, antibiotics for infection, or behavior modification for stress-related grooming. Don't delay if lesions spread, skin looks infected, or your cat seems uncomfortable.",
+    "urgency": "urgent",
+    "keywords": ["hair loss", "bald spot", "skin", "dermatology"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 24,
+    "question": "How do I brush my dog's teeth?",
+    "answer": "Dental care is crucial for preventing periodontal disease, which affects 80% of dogs by age 3. Start gradually: let your dog taste pet toothpaste (never use human toothpaste - xylitol and fluoride are toxic). Gently touch their mouth and lift their lips for a few days. Use a finger brush or soft pet toothbrush with pet toothpaste. Start with front teeth and canines, gradually working to back molars. Brush in gentle circular motions along the gum line where plaque accumulates. Focus on outer surfaces - dogs' tongues clean inner surfaces. Aim for daily brushing, but even 2-3 times weekly helps. Be patient - some dogs take weeks to accept brushing. Make it positive with praise and treats after. If your dog absolutely won't tolerate brushing, alternatives include dental chews, water additives, dental diets, or professional cleanings. Signs of dental disease include bad breath, yellow/brown teeth, red gums, difficulty eating, or pawing at mouth. Annual dental cleanings under anesthesia may be needed despite home care.",
+    "urgency": "routine",
+    "keywords": ["dental care", "teeth", "brushing", "preventive"],
+    "species": "dog",
+    "category": "preventive_care"
+  },
+  {
+    "id": 25,
+    "question": "My cat's eye is swollen and she's squinting, is this serious?",
+    "answer": "Eye problems in cats require prompt attention as they can worsen rapidly and cause permanent damage. Squinting (blepharospasm) indicates pain or discomfort. Swelling could be from conjunctivitis (pink eye), corneal ulcer or scratch, foreign body, infection, allergic reaction, glaucoma, or trauma. Check for discharge (clear, yellow, or green), redness, cloudiness, or visible injury. Never try to remove foreign objects yourself. Even if symptoms seem mild, untreated eye conditions can lead to vision loss or eye removal. See your vet within 24 hours, sooner if: your cat is pawing at the eye, the eye appears cloudy or has visible damage, there's thick discharge, or your cat seems very uncomfortable. Your vet will perform an eye exam, possibly using fluorescent stain to check for ulcers, measure eye pressure for glaucoma, and prescribe appropriate treatment (antibiotics, anti-inflammatory drops, or pain medication). Keep your cat from rubbing the eye - an Elizabethan collar may be needed. Most eye conditions respond well to early treatment but can become serious if neglected.",
+    "urgency": "urgent",
+    "keywords": ["eye", "swelling", "squinting", "ocular"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 26,
+    "question": "What should I do if my dog gets bit by another dog?",
+    "answer": "Dog bite wounds require immediate attention even if they appear minor. First, safely separate the dogs and move to a secure area. Assess your dog for injuries - bite wounds may be deeper than they appear, with puncture wounds creating pockets where bacteria thrive. Clean visible wounds gently with warm water. Do not apply ointments yet. Control bleeding with clean pressure. Even small puncture wounds need veterinary evaluation within a few hours. Your vet will clean wounds thoroughly, possibly under sedation, assess for damage to deeper structures, prescribe antibiotics (bites have high infection risk), provide pain medication, and determine if sutures are needed. Watch for signs of infection over the next few days: increased swelling, heat, redness, discharge, fever, or lethargy. Check your dog's vaccination status - rabies is critical. If the other dog's vaccine status is unknown, this becomes more urgent. Some wounds, especially on the face, neck, or chest, can hide serious internal damage. Puncture wounds near joints require careful evaluation. Never assume a bite is minor without professional assessment.",
+    "urgency": "urgent",
+    "keywords": ["bite", "dog fight", "wound", "injury"],
+    "species": "dog",
+    "category": "emergency_trauma"
+  },
+  {
+    "id": 27,
+    "question": "Is it normal for my cat to cough up hairballs?",
+    "answer": "Occasional hairballs are normal for cats, especially long-haired breeds, as cats ingest hair during grooming. Most cats produce 1-2 hairballs per month. However, frequent hairballs (more than once weekly) or difficulty passing them indicates a problem. Warning signs include: retching without producing a hairball, loss of appetite, lethargy, constipation, or changes in coat quality. Excessive hairballs might indicate underlying issues like inflammatory bowel disease, food allergies, or stress-related over-grooming. Prevention includes: regular brushing (daily for long-haired cats) to remove loose fur, high-fiber diets or hairball-formula foods, petroleum-based hairball remedies or treats, ensuring adequate hydration, and reducing stress. If your cat is coughing or gagging frequently without producing hairballs, this could actually be asthma, not hairballs - differentiation requires vet examination. See your vet if: hairballs occur very frequently, your cat seems unwell, there's loss of appetite lasting more than 24 hours, or if you notice behavioral changes. Some cats require prescription diets or medications to manage hairballs.",
+    "urgency": "routine",
+    "keywords": ["hairball", "coughing", "normal", "grooming"],
+    "species": "cat",
+    "category": "general_care"
+  },
+  {
+    "id": 28,
+    "question": "My dog's stomach looks bloated and he's trying to vomit but nothing comes out",
+    "answer": "This is an extreme emergency - your dog may have gastric dilatation-volvulus (GDV or bloat), a life-threatening condition. The stomach fills with gas and may twist, cutting off blood supply. Deep-chested large breed dogs are at highest risk. Symptoms include distended abdomen (especially left side), unproductive retching, restlessness, pacing, drooling, rapid breathing, pale gums, weakness, and collapse. This progresses rapidly - you have minutes to hours, not days. Go to an emergency vet immediately - call ahead so they can prepare for surgery. Do not wait to see if it improves. Without surgery within hours, GDV is fatal. In the car, keep your dog calm and prevent movement if possible. This requires immediate surgical intervention to untwist the stomach and tack it in place (gastropexy). Prevention for at-risk breeds includes: feeding smaller meals 2-3 times daily, avoiding exercise immediately before and after meals, using slow-feeder bowls, and considering prophylactic gastropexy during spay/neuter. Any dog showing these symptoms needs emergency care within minutes.",
+    "urgency": "emergency",
+    "keywords": ["bloat", "GDV", "emergency", "stomach"],
+    "species": "dog",
+    "category": "emergency_GI"
+  },
+  {
+    "id": 29,
+    "question": "How much water should my cat drink per day?",
+    "answer": "Cats typically need about 3.5-4.5 ounces of water per 5 pounds of body weight daily. A 10-pound cat should drink approximately 7-9 ounces daily. However, cats eating wet food get significant moisture from their diet (70-80% water content) and drink less, while dry-food-fed cats need to drink more. It's often hard to measure exactly how much cats drink, especially with multiple pets. Instead, monitor for changes. Increased drinking (polydipsia) can indicate diabetes, kidney disease, hyperthyroidism, or other medical problems - if you notice your cat drinking significantly more, see your vet for bloodwork. Decreased drinking can lead to dehydration and urinary issues. Encourage water intake by: providing fresh water daily, using wide shallow bowls (cats dislike whisker contact), placing multiple water sources throughout the house, trying cat water fountains (many cats prefer moving water), adding water to food, or offering ice cubes as treats. Signs of dehydration include decreased skin elasticity, dry gums, lethargy, and sunken eyes. Adequate hydration is crucial for kidney and urinary tract health.",
+    "urgency": "routine",
+    "keywords": ["water", "hydration", "drinking", "diet"],
+    "species": "cat",
+    "category": "general_care"
+  },
+  {
+    "id": 30,
+    "question": "Why is my dog eating grass?",
+    "answer": "Grass eating is common dog behavior with several explanations. Many dogs eat grass simply because they like the taste or texture - it's normal behavior. Some theories suggest dogs eat grass to add fiber to their diet, settle an upset stomach, or relieve boredom. While some dogs vomit after eating grass, most don't, and research shows grass eating doesn't reliably indicate stomach upset. Occasional grass eating (without large amounts or obsessive behavior) is generally harmless. However, be concerned if: your dog eats grass frantically or in large quantities, vomits frequently afterward, shows other symptoms like diarrhea or lethargy, or seems to be eating grass compulsively. Excessive grass eating might indicate nutritional deficiencies, gastrointestinal problems, or anxiety. Risks include: ingesting pesticides or herbicides, consuming toxic plants mixed with grass, or intestinal blockage from large amounts. Ensure grass is free from chemicals. Provide a high-quality, well-balanced diet with adequate fiber. If grass eating becomes excessive or your dog seems unwell, consult your vet to rule out medical issues. Consider adding vegetables to meals or increasing exercise to reduce boredom-related grass eating.",
+    "urgency": "routine",
+    "keywords": ["grass eating", "behavior", "diet", "normal"],
+    "species": "dog",
+    "category": "general_care"
+  },
+
+  
+
+  {
+    "id": 31,
+    "question": "My dog has a swollen paw, what could be the cause?",
+    "answer": "Swollen paws can result from injury, insect bites, infections, foreign objects, or allergic reactions. Check for cuts, punctures, thorns, redness, heat, or discharge. Minor swelling from a small cut or bite may improve with rest and cleaning, but see a vet if swelling persists, worsens, or your dog is limping or in pain. Severe swelling can indicate infection, abscess, or fracture requiring professional care.",
+    "urgency": "urgent",
+    "keywords": ["paw", "swelling", "injury", "infection"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 32,
+    "question": "My cat keeps vomiting hair, is this dangerous?",
+    "answer": "Occasional hairballs are normal, but frequent vomiting may indicate hairball impaction, dietary issues, or underlying gastrointestinal problems. Long-haired cats are more prone. Provide regular grooming, hairball-formulated diets, and hydration. See your vet if vomiting is frequent, contains blood, your cat is losing weight, or shows other symptoms like lethargy or diarrhea.",
+    "urgency": "urgent",
+    "keywords": ["vomiting", "hairball", "gastrointestinal", "cat"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 33,
+    "question": "How can I tell if my dog has fleas?",
+    "answer": "Check for signs like excessive scratching, hair loss, red bumps, or small black specks on the skin (flea dirt). Part the fur and inspect the skin, especially around the neck, tail base, and belly. Flea combs help detect them. Treat promptly with vet-approved flea control products. Untreated fleas can cause anemia, skin infections, and tapeworms. Always check all pets in the household.",
+    "urgency": "routine",
+    "keywords": ["fleas", "itching", "parasites", "skin"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 34,
+    "question": "My cat is suddenly very aggressive, what could be wrong?",
+    "answer": "Sudden aggression can be caused by pain, illness, stress, fear, or territorial behavior. Check for injuries, recent changes at home, or signs of illness. Cats hide pain, so aggression may indicate discomfort. If the aggression is new, persistent, or extreme, see your vet to rule out medical causes before considering behavioral interventions.",
+    "urgency": "urgent",
+    "keywords": ["aggression", "behavior", "pain", "cat"],
+    "species": "cat",
+    "category": "behavior"
+  },
+  {
+    "id": 35,
+    "question": "What should I do if my dog is overheating?",
+    "answer": "Overheating (heatstroke) is an emergency. Signs include excessive panting, drooling, rapid heartbeat, vomiting, weakness, or collapse. Move your dog to a cool, shaded area, offer small amounts of water, and wet them with cool (not ice-cold) water. Do not force water. Get to an emergency vet immediately. Prolonged heatstroke can cause organ failure and death. Prevention includes avoiding exercise in hot weather, providing shade, and never leaving dogs in cars.",
+    "urgency": "emergency",
+    "keywords": ["heatstroke", "overheating", "emergency", "dog"],
+    "species": "dog",
+    "category": "emergency_general"
+  },
+  {
+    "id": 36,
+    "question": "My cat seems very lethargic and hides a lot, should I worry?",
+    "answer": "Lethargy and hiding are often signs that a cat is sick or stressed. Common causes include infections, pain, organ disease, or environmental stress. Monitor appetite, drinking, litter box use, and vomiting. If lethargy persists more than 24 hours, or other symptoms appear (vomiting, diarrhea, labored breathing, or weight loss), see your vet immediately for evaluation.",
+    "urgency": "urgent",
+    "keywords": ["lethargy", "hiding", "cat", "illness"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 37,
+    "question": "Can I give my dog ibuprofen for pain?",
+    "answer": "No. Ibuprofen is toxic to dogs and can cause stomach ulcers, kidney failure, or death. Never give human pain medications without veterinary approval. Use only medications prescribed for dogs, such as vet-approved NSAIDs or pain relievers. If your dog is in pain, consult your veterinarian for safe alternatives.",
+    "urgency": "emergency",
+    "keywords": ["ibuprofen", "toxicity", "pain", "dog"],
+    "species": "dog",
+    "category": "emergency_medication"
+  },
+  {
+    "id": 38,
+    "question": "My cat is wheezing and coughing, what should I do?",
+    "answer": "Wheezing and coughing can indicate asthma, respiratory infection, heart disease, or airway obstruction. If your cat is struggling to breathe, open-mouth breathing, or blue gums, this is an emergency - go to a vet immediately. For mild symptoms, schedule a vet visit to evaluate breathing, perform X-rays, and prescribe inhalers or medication if needed.",
+    "urgency": "urgent",
+    "keywords": ["coughing", "wheezing", "breathing", "cat"],
+    "species": "cat",
+    "category": "emergency_breathing"
+  },
+  {
+    "id": 39,
+    "question": "How do I know if my dog is dehydrated?",
+    "answer": "Signs of dehydration include dry gums, sunken eyes, lethargy, loss of skin elasticity (tenting), and reduced urination. Gently pinch the skin between the shoulders: if it doesn’t snap back quickly, your dog may be dehydrated. Provide water immediately and contact your vet if severe or persistent, as dehydration can indicate illness and may require fluids.",
+    "urgency": "urgent",
+    "keywords": ["dehydration", "symptoms", "dog", "hydration"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 40,
+    "question": "My cat suddenly stopped eating, what could be the reason?",
+    "answer": "Loss of appetite (anorexia) in cats can signal illness such as dental disease, kidney problems, infections, liver issues, gastrointestinal upset, or stress. Even 24 hours without eating is concerning in cats due to risk of hepatic lipidosis. Monitor other symptoms like vomiting, lethargy, or hiding. Contact your vet promptly for examination and treatment.",
+    "urgency": "urgent",
+    "keywords": ["anorexia", "cat", "loss of appetite", "illness"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+
+
+  {
+    "id": 41,
+    "question": "My dog keeps shaking his head, what could it mean?",
+    "answer": "Frequent head shaking usually indicates ear problems such as infections, mites, foreign objects, or allergies. Look for redness, discharge, odor, or scratching. Mild cases may improve with cleaning, but persistent shaking can cause injury or indicate a serious infection. See your vet for proper diagnosis and treatment.",
+    "urgency": "urgent",
+    "keywords": ["head shaking", "ears", "infection", "dog"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 42,
+    "question": "My cat has a runny nose and watery eyes, is this serious?",
+    "answer": "Runny nose and watery eyes may indicate an upper respiratory infection, often caused by viruses or bacteria. Mild cases can resolve, but see your vet if symptoms persist more than a few days, worsen, include sneezing with blood, loss of appetite, lethargy, or breathing difficulty. Early treatment improves recovery.",
+    "urgency": "urgent",
+    "keywords": ["runny nose", "watery eyes", "respiratory infection", "cat"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 43,
+    "question": "What should I do if my dog ate a poisonous plant?",
+    "answer": "Immediately remove the plant from your dog's reach. Identify the plant if possible and call your vet or pet poison control. Symptoms of plant poisoning include vomiting, diarrhea, drooling, lethargy, tremors, or seizures. Do not induce vomiting unless instructed by a professional. Bring a sample of the plant to the vet for identification and treatment guidance.",
+    "urgency": "emergency",
+    "keywords": ["poisoning", "plants", "dog", "toxic"],
+    "species": "dog",
+    "category": "emergency_poisoning"
+  },
+  {
+    "id": 44,
+    "question": "My cat is limping on one paw, what could be the cause?",
+    "answer": "Limping may be caused by injury (sprain, cut, fracture), infection, arthritis, or foreign objects in the paw. Examine the paw for swelling, redness, wounds, or embedded objects. Restrict activity and contact your vet if limping persists, worsens, or your cat shows pain, swelling, or reluctance to walk.",
+    "urgency": "urgent",
+    "keywords": ["limping", "paw", "injury", "cat"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 45,
+    "question": "How can I prevent my dog from getting ticks?",
+    "answer": "Use vet-approved tick preventatives (spot-on treatments, collars, or oral medications). Avoid tall grass and heavily wooded areas. Check your dog daily, especially around ears, neck, paws, and tail. Remove ticks promptly using tweezers or a tick remover, grabbing the head and pulling straight out. Consult your vet for seasonal prevention advice and tick-borne disease risk in your area.",
+    "urgency": "routine",
+    "keywords": ["ticks", "prevention", "dog", "parasites"],
+    "species": "dog",
+    "category": "preventive_care"
+  },
+  {
+    "id": 46,
+    "question": "My cat keeps sneezing, what should I do?",
+    "answer": "Occasional sneezing is normal, but frequent or severe sneezing may indicate respiratory infection, allergies, dental disease, or nasal irritation. Observe for discharge, lethargy, or loss of appetite. If symptoms persist more than a few days, worsen, or include blood, take your cat to the vet for diagnosis and treatment.",
+    "urgency": "urgent",
+    "keywords": ["sneezing", "respiratory", "cat", "infection"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 47,
+    "question": "My dog is vomiting foam, what should I do?",
+    "answer": "Foamy vomiting can indicate stomach irritation, gastritis, hairballs, or ingestion of toxins. Withhold food for a few hours but provide water. Monitor for other symptoms: lethargy, diarrhea, blood in vomit, or repeated vomiting. Seek veterinary care if vomiting persists, worsens, or your dog shows signs of dehydration or distress.",
+    "urgency": "urgent",
+    "keywords": ["vomiting", "foam", "digestive", "dog"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 48,
+    "question": "My cat suddenly has diarrhea, what should I do?",
+    "answer": "Acute diarrhea can result from dietary changes, stress, parasites, infections, or toxins. Ensure hydration, offer bland food, and monitor frequency and severity. Seek vet attention if diarrhea persists more than 24 hours, contains blood, your cat is lethargic, vomiting, or has a fever. Chronic or severe diarrhea can indicate serious illness.",
+    "urgency": "urgent",
+    "keywords": ["diarrhea", "cat", "digestive", "symptoms"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 49,
+    "question": "Can I give my dog human food like chicken or rice?",
+    "answer": "Plain cooked chicken or rice is generally safe in small amounts and can help with mild digestive upset. Avoid seasonings, onions, garlic, or bones. Feed in moderation and monitor your dog for any adverse reactions. For ongoing issues, consult your vet for a proper diet plan.",
+    "urgency": "routine",
+    "keywords": ["diet", "human food", "dog", "feeding"],
+    "species": "dog",
+    "category": "general_care"
+  },
+  {
+    "id": 50,
+    "question": "My cat is hiding all the time, is this normal?",
+    "answer": "Cats often hide when stressed, scared, or ill. Occasional hiding is normal, but persistent hiding can indicate illness, pain, or environmental stressors. Check for changes in appetite, litter box use, or behavior. Consult your vet if hiding is new, prolonged, or accompanied by other symptoms.",
+    "urgency": "urgent",
+    "keywords": ["hiding", "behavior", "stress", "cat"],
+    "species": "cat",
+    "category": "behavior"
+  },
+  {
+    "id": 51,
+    "question": "My dog has bad breath, what can I do?",
+    "answer": "Bad breath can result from dental disease, gum infections, oral tumors, or digestive issues. Start regular teeth brushing with pet toothpaste, dental chews, and professional cleanings. If odor persists, see your vet to rule out infections or organ-related problems.",
+    "urgency": "routine",
+    "keywords": ["bad breath", "dental", "dog", "oral health"],
+    "species": "dog",
+    "category": "preventive_care"
+  },
+  {
+    "id": 52,
+    "question": "Why is my cat pawing at its mouth?",
+    "answer": "Pawing at the mouth can indicate dental pain, gum disease, foreign objects, or nausea. Check for swelling, drooling, bad breath, or broken teeth. Persistent pawing or reluctance to eat warrants a vet examination for proper diagnosis and treatment.",
+    "urgency": "urgent",
+    "keywords": ["paws", "mouth", "cat", "dental"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 53,
+    "question": "My dog has a lump under the skin, should I worry?",
+    "answer": "Lumps can be benign (fatty tumors, cysts) or malignant (cancer). Monitor size, shape, texture, and growth rate. Any new, rapidly growing, painful, ulcerated, or bleeding lump should be checked by a vet. Early evaluation improves outcomes if treatment is needed.",
+    "urgency": "urgent",
+    "keywords": ["lump", "mass", "dog", "skin"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 54,
+    "question": "My cat is scratching its ears constantly, what does it mean?",
+    "answer": "Constant ear scratching often signals ear infections, mites, allergies, or foreign objects. Look for redness, odor, discharge, or swelling. Avoid inserting anything into the ear canal. Persistent scratching warrants a vet visit to identify and treat the cause safely.",
+    "urgency": "urgent",
+    "keywords": ["ear", "scratching", "cat", "infection"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 55,
+    "question": "How do I stop my dog from chewing furniture?",
+    "answer": "Dogs chew due to teething, boredom, anxiety, or attention-seeking. Provide safe chew toys, increase exercise, and use deterrent sprays on furniture. Positive reinforcement when your dog chews appropriate items helps. Persistent destructive chewing may require behavior consultation with a vet or trainer.",
+    "urgency": "routine",
+    "keywords": ["chewing", "behavior", "dog", "training"],
+    "species": "dog",
+    "category": "behavior"
+  },
+  {
+    "id": 56,
+    "question": "My cat has yellow gums, what could this indicate?",
+    "answer": "Yellow gums (jaundice) suggest liver problems, hemolytic anemia, or infection. This is an urgent health concern. Seek immediate veterinary attention. Other signs may include lethargy, vomiting, loss of appetite, or dark urine. Early diagnosis is critical for treatment success.",
+    "urgency": "emergency",
+    "keywords": ["yellow gums", "jaundice", "cat", "liver"],
+    "species": "cat",
+    "category": "emergency_general"
+  },
+  {
+    "id": 57,
+    "question": "My dog keeps licking its paws, what could it mean?",
+    "answer": "Excessive paw licking can indicate allergies, dermatitis, injury, or boredom. Examine for redness, swelling, cuts, or foreign objects. Mild cases may improve with topical treatments or behavior modification, but persistent licking should be evaluated by a vet to identify underlying causes.",
+    "urgency": "urgent",
+    "keywords": ["licking", "paws", "dog", "allergy"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 58,
+    "question": "My cat suddenly stopped grooming itself, is this serious?",
+    "answer": "Cats stop grooming due to pain, illness, stress, or obesity. Poor grooming can lead to matted fur, skin infections, and parasites. Check for mobility issues, dental pain, or other symptoms. See your vet promptly if this change is sudden or accompanied by weight loss, lethargy, or vomiting.",
+    "urgency": "urgent",
+    "keywords": ["grooming", "cat", "behavior", "health"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 59,
+    "question": "How do I know if my dog is in pain after surgery?",
+    "answer": "Signs of pain include whining, reluctance to move, panting, restlessness, decreased appetite, or guarding the surgical site. Mild discomfort may be managed with prescribed pain medications. Contact your vet if pain seems severe, persists longer than expected, or if the incision shows redness, swelling, discharge, or bleeding.",
+    "urgency": "urgent",
+    "keywords": ["pain", "surgery", "dog", "recovery"],
+    "species": "dog",
+    "category": "post_surgery"
+  },
+  {
+    "id": 60,
+    "question": "My cat keeps throwing up after eating, what should I do?",
+    "answer": "Frequent vomiting after eating can indicate eating too quickly, hairballs, gastrointestinal disorders, food intolerance, or illness. Try slow-feeding methods, smaller meals, and monitor symptoms. See a vet if vomiting is frequent, contains blood, or is accompanied by lethargy, diarrhea, or weight loss.",
+    "urgency": "urgent",
+    "keywords": ["vomiting", "cat", "digestive", "feeding"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+
+  
+  {
+    "id": 61,
+    "question": "My cat has severe diarrhea, is vomiting, and refuses to eat. What should I do?",
+    "answer": "This is a serious emergency. Severe vomiting and diarrhea combined with anorexia can indicate infectious diseases such as feline typhus, parvovirus, or other systemic illnesses. Immediate veterinary evaluation is required. Only a vet can perform the necessary diagnostic tests and provide life-saving treatment.",
+    "urgency": "emergency",
+    "keywords": ["diarrhea", "vomiting", "refusal to eat", "cat", "typhus", "emergency"],
+    "species": "cat",
+    "category": "emergency_general"
+  },
+  {
+    "id": 62,
+    "question": "A street cat that recently gave birth still has a swollen abdomen and is not eating. What should I do?",
+    "answer": "This is an emergency. A swollen abdomen and lack of appetite after giving birth could indicate retained kittens or postpartum complications such as infection or uterine issues. Immediate veterinary evaluation is essential to determine if intervention is needed and to prevent life-threatening complications.",
+    "urgency": "emergency",
+    "keywords": ["postpartum", "swollen abdomen", "refusal to eat", "retained kittens", "cat", "emergency"],
+    "species": "cat",
+    "category": "emergency_general"
+  },
+  {
+    "id": 63,
+    "question": "My cat had an abscess that has burst. What should I do?",
+    "answer": "For minor abscesses, cleaning the wound and applying antiseptic ointments such as Rifocine or Mebo can help. However, if the wound does not improve, becomes larger, or shows signs of infection, this is an emergency. Take your cat to the vet immediately for proper cleaning, possible antibiotics, and treatment.",
+    "urgency": "urgent",
+    "keywords": ["abscess", "wound", "cat", "infection", "Rifocine", "Mebo"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 64,
+    "question": "My cat has tapeworms. How should I treat her?",
+    "answer": "Treatment with Milpro (or equivalent anti-tapeworm medication) is recommended. Administer the correct dose according to your cat’s weight. Ensure you follow up with your vet if symptoms persist or recur. Regular deworming and parasite control are essential for your cat’s health.",
+    "urgency": "routine",
+    "keywords": ["tapeworm", "parasite", "deworming", "cat", "Milpro"],
+    "species": "cat",
+    "category": "preventive_care"
+  },
+  {
+    "id": 65,
+    "question": "My cat keeps scratching her ears, and I notice black dirt inside. What should I do?",
+    "answer": "Gently clean the ears and apply Oridermyl as directed on the package. Do not stop the treatment before the full duration is completed. If the ears do not improve, or the scratching continues, take your cat to the vet for further evaluation of infections or mites.",
+    "urgency": "routine",
+    "keywords": ["ear scratching", "black debris", "infection", "Oridermyl", "cat"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 66,
+    "question": "My cat has vaginal discharge that is liquid, sometimes with a foul smell. What should I do?",
+    "answer": "This is a veterinary emergency. Liquid or malodorous vaginal discharge can indicate pyometra, a serious uterine infection. Immediate veterinary attention is required to prevent life-threatening complications.",
+    "urgency": "emergency",
+    "keywords": ["vaginal discharge", "pyometra", "cat", "emergency"],
+    "species": "cat",
+    "category": "emergency_general"
+  },
+  {
+    "id": 67,
+    "question": "My cat frequently gives birth to multiple kittens, but I can no longer take care of them. What is the solution?",
+    "answer": "The recommended solution is to have your cat sterilized (spayed) by a veterinarian. The procedure is safe and she will recover within a few days. Spaying prevents unwanted pregnancies, reduces health risks, and helps manage the cat population.",
+    "urgency": "routine",
+    "keywords": ["reproduction", "spay", "sterilization", "cat"],
+    "species": "cat",
+    "category": "preventive_care"
+  },
+  {
+    "id": 68,
+    "question": "My male cat is urinating in multiple places and has become aggressive. What does this mean?",
+    "answer": "This is likely due to territorial marking and hormonal behavior during heat cycles or in the presence of female cats nearby. If a female cat is not present, consult your vet about neutering (castration). Castration helps reduce aggression, territorial marking, and undesirable behaviors.",
+    "urgency": "urgent",
+    "keywords": ["urination", "aggression", "male cat", "territorial marking", "neutering"],
+    "species": "cat",
+    "category": "behavior"
+  },
+
+  
+  {
+    "id": 69,
+    "question": "My cat's eye is red, swollen, and she is constantly blinking. What should I do?",
+    "answer": "Redness, swelling, and frequent blinking can indicate conjunctivitis, a foreign body, corneal ulcer, or infection. This requires urgent veterinary attention. Do not attempt to medicate the eye yourself with human drops. Keep the eye clean and prevent your cat from scratching it until you reach the vet.",
+    "urgency": "urgent",
+    "keywords": ["eye", "redness", "swelling", "blinking", "conjunctivitis", "cat"],
+    "species": "cat",
+    "category": "emergency_eyes"
+  },
+  {
+    "id": 70,
+    "question": "My dog has cloudy eyes and seems sensitive to light. Is this serious?",
+    "answer": "Cloudiness in the eye and sensitivity to light can indicate cataracts, glaucoma, or corneal disease. This is an urgent condition. Schedule a veterinary exam promptly, as early detection can prevent vision loss. Avoid touching or rubbing the eyes, and keep your dog in a safe, calm environment.",
+    "urgency": "urgent",
+    "keywords": ["eye", "cloudy", "sensitivity", "glaucoma", "dog"],
+    "species": "dog",
+    "category": "emergency_eyes"
+  },
+  {
+    "id": 71,
+    "question": "My cat has pus in her eye and a yellowish discharge. What should I do?",
+    "answer": "Yellowish or greenish eye discharge indicates infection or severe conjunctivitis. This is an urgent issue requiring veterinary evaluation. Your vet may prescribe antibiotic eye drops or systemic antibiotics depending on severity. Keep the eye clean with sterile saline until you reach the clinic.",
+    "urgency": "urgent",
+    "keywords": ["eye", "discharge", "pus", "infection", "cat"],
+    "species": "cat",
+    "category": "emergency_eyes"
+  },
+  {
+    "id": 72,
+    "question": "My dog's gums are pale and he seems to drool excessively. What should I do?",
+    "answer": "Pale gums and excessive drooling can indicate anemia, poisoning, or severe oral disease. This is an emergency. Take your dog to a veterinarian immediately for blood tests and evaluation. Do not delay, as conditions like poisoning or blood loss can deteriorate quickly.",
+    "urgency": "emergency",
+    "keywords": ["gums", "pale", "drooling", "dog", "emergency"],
+    "species": "dog",
+    "category": "emergency_mouth"
+  },
+  {
+    "id": 73,
+    "question": "My cat has bad breath and seems to have pain when eating. What could it be?",
+    "answer": "Bad breath combined with difficulty eating may indicate dental disease, gingivitis, or oral infection. Schedule a vet visit promptly. Your vet may perform a dental cleaning, extract damaged teeth, or prescribe antibiotics. Do not attempt to clean the teeth yourself with human toothpaste.",
+    "urgency": "urgent",
+    "keywords": ["bad breath", "mouth pain", "dental disease", "cat"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 74,
+    "question": "My dog has a swollen lower jaw and drools excessively. Is this serious?",
+    "answer": "Swelling of the jaw with drooling can indicate an abscess, tooth infection, or trauma. This is an urgent issue. Schedule a veterinary visit for examination, X-rays, and treatment, which may include antibiotics, drainage, or tooth extraction.",
+    "urgency": "urgent",
+    "keywords": ["swollen jaw", "drooling", "abscess", "dog", "dental"],
+    "species": "dog",
+    "category": "emergency_mouth"
+  },
+  {
+    "id": 75,
+    "question": "My cat has a black spot on her tongue and seems lethargic. What should I do?",
+    "answer": "A black spot on the tongue with lethargy may indicate oral melanoma, injury, or systemic disease. This requires urgent veterinary evaluation for diagnosis and appropriate treatment. Avoid manipulating the mouth excessively and take your cat to the vet promptly.",
+    "urgency": "urgent",
+    "keywords": ["tongue", "black spot", "lethargy", "cat", "oral disease"],
+    "species": "cat",
+    "category": "emergency_mouth"
+  },
+  {
+    "id": 76,
+    "question": "My dog's tooth is broken and there is blood in his mouth. What should I do?",
+    "answer": "A broken tooth with bleeding is an urgent dental emergency. Immediate veterinary attention is required to prevent infection, manage pain, and repair or extract the damaged tooth. Keep your dog calm and avoid feeding hard food until examined.",
+    "urgency": "urgent",
+    "keywords": ["broken tooth", "bleeding", "dog", "dental emergency"],
+    "species": "dog",
+    "category": "emergency_mouth"
+  },
+
+  
+  {
+    "id": 77,
+    "question": "My cat seems very lethargic and isn’t eating for two days. What should I do?",
+    "answer": "Loss of appetite and lethargy can indicate infection, kidney disease, or other serious illness. This is an urgent condition. Take your cat to the veterinarian for bloodwork, hydration, and evaluation.",
+    "urgency": "urgent",
+    "keywords": ["lethargy", "anorexia", "cat", "loss of appetite"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 78,
+    "question": "My dog has a mild cough and seems tired but is eating normally. Should I be concerned?",
+    "answer": "A mild cough with normal eating may be due to kennel cough or minor respiratory irritation. This is usually routine, but monitor your dog closely. If coughing persists more than a few days, worsens, or is accompanied by fever, see a vet.",
+    "urgency": "routine",
+    "keywords": ["cough", "respiratory", "dog", "mild symptoms"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 79,
+    "question": "My cat has vomited three times today and is refusing food. What should I do?",
+    "answer": "Frequent vomiting with refusal to eat is an urgent condition. Possible causes include gastrointestinal infection, toxins, or obstruction. Contact your veterinarian immediately for evaluation and treatment.",
+    "urgency": "urgent",
+    "keywords": ["vomiting", "anorexia", "cat", "gastrointestinal"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 80,
+    "question": "My dog seems to be limping slightly but is still walking. Should I worry?",
+    "answer": "A mild limp may indicate minor strain or injury. This is usually routine if the dog is otherwise normal. Limit exercise for a day or two and monitor. If limping worsens, the dog shows severe pain, swelling, or refuses to put weight on the leg, see a vet urgently.",
+    "urgency": "routine",
+    "keywords": ["limping", "dog", "mild injury", "mobility"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 81,
+    "question": "My cat has sudden diarrhea with blood and vomiting. What should I do?",
+    "answer": "Bloody diarrhea with vomiting is a serious emergency. It could indicate infections, toxins, or internal bleeding. Take your cat to a veterinarian immediately for fluids, diagnostics, and treatment.",
+    "urgency": "emergency",
+    "keywords": ["diarrhea", "vomiting", "blood", "cat", "emergency"],
+    "species": "cat",
+    "category": "emergency_GI"
+  },
+  {
+    "id": 82,
+    "question": "My dog is sneezing frequently but has no other symptoms. Is this normal?",
+    "answer": "Frequent sneezing without other symptoms is usually routine. It may be caused by dust, pollen, or minor irritation. Monitor for nasal discharge, lethargy, loss of appetite, or fever; if these appear, see a vet.",
+    "urgency": "routine",
+    "keywords": ["sneezing", "dog", "respiratory", "routine"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 83,
+    "question": "My cat was stung by a bee and is swelling around the face. What should I do?",
+    "answer": "Swelling from a bee sting can be serious, especially if breathing is affected. Administer antihistamines only if recommended by a vet and monitor closely. This is an urgent condition. Take your cat to a vet if swelling worsens or breathing difficulty occurs.",
+    "urgency": "urgent",
+    "keywords": ["bee sting", "swelling", "cat", "allergic reaction"],
+    "species": "cat",
+    "category": "emergency_allergy"
+  },
+  {
+    "id": 84,
+    "question": "My dog has persistent diarrhea but is still eating and drinking normally. What should I do?",
+    "answer": "Persistent diarrhea with normal appetite is usually urgent. Possible causes include dietary indiscretion, infection, or parasites. Monitor closely and provide hydration. If diarrhea persists more than 48 hours, consult your veterinarian.",
+    "urgency": "urgent",
+    "keywords": ["diarrhea", "dog", "digestive", "urgent"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 85,
+    "question": "My cat has a runny nose and watery eyes but is still playful. Should I worry?",
+    "answer": "A mild upper respiratory infection with no loss of appetite is usually routine. Keep your cat warm, hydrated, and isolated from other cats. See a vet if symptoms worsen, include lethargy, fever, or loss of appetite.",
+    "urgency": "routine",
+    "keywords": ["runny nose", "watery eyes", "cat", "respiratory"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 86,
+    "question": "My dog has an abscess on his paw that is oozing pus. What should I do?",
+    "answer": "An abscess with pus requires urgent veterinary attention. Clean the area gently with warm water, avoid squeezing, and prevent your dog from licking. The vet may prescribe antibiotics, drainage, or bandaging.",
+    "urgency": "urgent",
+    "keywords": ["abscess", "pus", "dog", "infection"],
+    "species": "dog",
+    "category": "emergency_trauma"
+  },
+  {
+    "id": 87,
+    "question": "My cat seems to have a growth inside her mouth and is drooling. What should I do?",
+    "answer": "A growth in the mouth with drooling is an urgent condition. It may indicate an oral tumor or severe infection. Schedule a veterinary exam promptly. Do not attempt to manipulate the growth yourself.",
+    "urgency": "urgent",
+    "keywords": ["oral growth", "drooling", "cat", "mouth"],
+    "species": "cat",
+    "category": "emergency_mouth"
+  },
+  {
+    "id": 88,
+    "question": "My dog has been scratching his ears and there is a dark discharge. What should I do?",
+    "answer": "Ear scratching with dark discharge may indicate ear mites, bacterial or yeast infection. Clean the ear gently and apply veterinarian-recommended medication (e.g., Oridermyl). Complete the full treatment course. If no improvement, see your vet urgently.",
+    "urgency": "urgent",
+    "keywords": ["ear", "scratching", "discharge", "dog", "infection"],
+    "species": "dog",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 89,
+    "question": "My cat has discharge from her eyes that is yellow and thick. What should I do?",
+    "answer": "Yellow, thick eye discharge is an urgent sign of infection or conjunctivitis. Clean gently with sterile saline and take your cat to the vet for proper treatment, which may include antibiotics.",
+    "urgency": "urgent",
+    "keywords": ["eye discharge", "yellow", "cat", "infection"],
+    "species": "cat",
+    "category": "emergency_eyes"
+  },
+  {
+    "id": 90,
+    "question": "My dog is constantly drooling and pawing at his mouth. What should I do?",
+    "answer": "Excessive drooling and pawing at the mouth can indicate dental disease, oral foreign body, or oral injury. This is urgent. Take your dog to the vet for examination and treatment.",
+    "urgency": "urgent",
+    "keywords": ["drooling", "oral pain", "dog", "dental"],
+    "species": "dog",
+    "category": "emergency_mouth"
+  },
+  {
+    "id": 91,
+    "question": "My cat’s eye is swollen and there is a scratch on the cornea. What should I do?",
+    "answer": "A corneal scratch is urgent and painful. Do not touch or medicate with human drops. Take your cat to a vet immediately for proper examination and treatment to prevent infection and vision loss.",
+    "urgency": "urgent",
+    "keywords": ["eye", "corneal scratch", "swelling", "cat"],
+    "species": "cat",
+    "category": "emergency_eyes"
+  },
+  {
+    "id": 92,
+    "question": "My dog has a tooth broken down to the gum line. Is this serious?",
+    "answer": "A broken tooth exposing the gum line is an emergency. The tooth may be painful, infected, or damaged. Take your dog to the vet immediately for evaluation and possible extraction.",
+    "urgency": "emergency",
+    "keywords": ["broken tooth", "dog", "oral injury", "emergency"],
+    "species": "dog",
+    "category": "emergency_mouth"
+  },
+  {
+    "id": 93,
+    "question": "My cat has excessive tearing and her eyes are crusted shut. What should I do?",
+    "answer": "Excessive tearing and crusting of the eyes is urgent. Causes include conjunctivitis, infection, or blocked tear ducts. Clean gently and take your cat to the vet for diagnosis and treatment.",
+    "urgency": "urgent",
+    "keywords": ["tearing", "eye crust", "cat", "infection"],
+    "species": "cat",
+    "category": "emergency_eyes"
+  },
+  {
+    "id": 94,
+    "question": "My dog has swollen gums with a black spot. Is this serious?",
+    "answer": "Swollen gums with black spots may indicate oral tumors or severe infection. This is urgent. Schedule a veterinary examination immediately for proper diagnosis and treatment.",
+    "urgency": "urgent",
+    "keywords": ["gums", "oral tumor", "dog", "swelling"],
+    "species": "dog",
+    "category": "emergency_mouth"
+  },
+  {
+    "id": 95,
+    "question": "My cat’s mouth has a large ulcer and she refuses to eat. What should I do?",
+    "answer": "A mouth ulcer with refusal to eat is an urgent condition. Causes may include viral infection, stomatitis, or trauma. Take your cat to the vet immediately for pain management and treatment.",
+    "urgency": "urgent",
+    "keywords": ["mouth ulcer", "refusal to eat", "cat", "stomatitis"],
+    "species": "cat",
+    "category": "emergency_mouth"
+  },
+  {
+    "id": 96,
+    "question": "My dog has cloudy eyes and seems disoriented. What should I do?",
+    "answer": "Cloudy eyes with disorientation can indicate glaucoma or sudden vision loss. This is an emergency. Seek veterinary care immediately to prevent permanent damage.",
+    "urgency": "emergency",
+    "keywords": ["cloudy eyes", "dog", "glaucoma", "vision loss"],
+    "species": "dog",
+    "category": "emergency_eyes"
+  },
+  {
+    "id": 97,
+    "question": "My cat has excessive drooling and pawing at her mouth after chewing on a plastic toy. What should I do?",
+    "answer": "Excessive drooling and pawing after chewing on a toy may indicate a foreign body or oral injury. This is urgent. Take your cat to the vet immediately for examination and possible removal of the foreign object.",
+    "urgency": "urgent",
+    "keywords": ["foreign body", "drooling", "cat", "oral injury"],
+    "species": "cat",
+    "category": "emergency_mouth"
+  },
+  {
+    "id": 98,
+    "question": "My dog has blood in his saliva and a foul odor from his mouth. What should I do?",
+    "answer": "Blood in saliva with foul odor may indicate dental disease or oral infection. This is urgent. Take your dog to the veterinarian for cleaning, treatment, and possible antibiotics.",
+    "urgency": "urgent",
+    "keywords": ["blood", "saliva", "foul odor", "dog", "dental disease"],
+    "species": "dog",
+    "category": "emergency_mouth"
+  },
+  {
+    "id": 99,
+    "question": "My cat’s eyes are bulging and red, and she seems in pain. What should I do?",
+    "answer": "Bulging, red eyes with pain is an emergency. It could indicate glaucoma, trauma, or infection. Take your cat to the veterinarian immediately for examination and treatment.",
+    "urgency": "emergency",
+    "keywords": ["bulging eyes", "red", "cat", "pain", "emergency"],
+    "species": "cat",
+    "category": "emergency_eyes"
+  },
+  {
+    "id": 100,
+    "question": "My dog has a persistent ulcer in his mouth that is not healing. What should I do?",
+    "answer": "A persistent oral ulcer is urgent. Causes may include infection, dental disease, or oral tumor. Take your dog to the vet for diagnosis and treatment, which may include antibiotics or further intervention.",
+    "urgency": "urgent",
+    "keywords": ["oral ulcer", "dog", "persistent", "dental disease"],
+    "species": "dog",
+    "category": "emergency_mouth"
+  },
+
+
+  
+  {
+    "id": 101,
+    "question": "My cat is sneezing and has clear nasal discharge but is otherwise playful. What should I do?",
+    "answer": "Clear nasal discharge with mild sneezing is usually routine. It may be due to mild irritation or allergies. Monitor your cat and keep her in a clean environment. See a vet if symptoms worsen or appetite decreases.",
+    "urgency": "routine",
+    "keywords": ["sneezing", "nasal discharge", "cat", "allergy"],
+    "species": "cat",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 102,
+    "question": "My dog ate chocolate a few hours ago. What should I do?",
+    "answer": "Chocolate ingestion is an emergency. Theobromine in chocolate is toxic to dogs. Contact your veterinarian immediately, provide the amount ingested, weight, and type of chocolate. Treatment may include inducing vomiting and supportive care.",
+    "urgency": "emergency",
+    "keywords": ["chocolate", "toxicity", "dog", "emergency"],
+    "species": "dog",
+    "category": "poisoning"
+  },
+  {
+    "id": 103,
+    "question": "My cat has a scab on her back that keeps bleeding when scratched. What should I do?",
+    "answer": "A bleeding scab is usually urgent. Clean the area gently, prevent scratching, and apply antiseptic recommended by your vet. If bleeding continues or worsens, visit the veterinarian for proper treatment.",
+    "urgency": "care",
+    "keywords": ["scab", "bleeding", "cat", "skin lesion"],
+    "species": "cat",
+    "category": "skin"
+  },
+  {
+    "id": 104,
+    "question": "My dog has itchy skin and red spots after a walk. Should I be concerned?",
+    "answer": "Itchy skin with red spots after outdoor exposure may be due to allergic reactions or insect bites. Usually routine. Monitor for swelling, lethargy, or spreading rash. Consult your vet if symptoms worsen or persist.",
+    "urgency": "routine",
+    "keywords": ["itching", "red spots", "dog", "allergy"],
+    "species": "dog",
+    "category": "skin"
+  },
+  {
+    "id": 105,
+    "question": "My cat has vomited hairballs frequently. Is this normal?",
+    "answer": "Occasional hairball vomiting is routine in cats. Regular grooming and hairball remedies can help. See your vet if vomiting becomes frequent, includes blood, or is accompanied by lethargy.",
+    "urgency": "routine",
+    "keywords": ["hairball", "vomiting", "cat"],
+    "species": "cat",
+    "category": "GI"
+  },
+  {
+    "id": 106,
+    "question": "My dog suddenly started shaking and seems disoriented after eating a mushroom. What should I do?",
+    "answer": "Sudden shaking and disorientation after ingesting mushrooms is an emergency. Mushrooms can be highly toxic. Contact your vet immediately and bring a sample of the mushroom if possible.",
+    "urgency": "emergency",
+    "keywords": ["mushroom", "toxicity", "dog", "emergency"],
+    "species": "dog",
+    "category": "poisoning"
+  },
+  {
+    "id": 107,
+    "question": "My cat’s eyes are red and swollen. She is pawing at them constantly. What should I do?",
+    "answer": "Red, swollen eyes with discomfort is urgent. Could be conjunctivitis, infection, or injury. Clean gently and take your cat to the vet for proper treatment.",
+    "urgency": "urgent",
+    "keywords": ["eye", "red", "swollen", "cat", "infection"],
+    "species": "cat",
+    "category": "eyes"
+  },
+  {
+    "id": 108,
+    "question": "My dog has a limp after jumping off the couch. He is still putting weight on the leg. Should I worry?",
+    "answer": "A mild limp after a minor jump is usually routine. Rest and monitor your dog. If limping persists, worsens, or includes swelling or pain, see a vet urgently.",
+    "urgency": "routine",
+    "keywords": ["limping", "injury", "dog", "mobility"],
+    "species": "dog",
+    "category": "musculoskeletal"
+  },
+  {
+    "id": 109,
+    "question": "My cat has diarrhea with mucus for 24 hours but is drinking water. What should I do?",
+    "answer": "Diarrhea with mucus is urgent. Monitor hydration and withhold food for 12–24 hours. If it persists, worsens, or is accompanied by vomiting or lethargy, take your cat to the vet.",
+    "urgency": "urgent",
+    "keywords": ["diarrhea", "mucus", "cat", "GI"],
+    "species": "cat",
+    "category": "GI"
+  },
+  {
+    "id": 110,
+    "question": "My dog is limping and his paw is swollen with a cut. What should I do?",
+    "answer": "Swelling with a cut is urgent. Clean gently, prevent licking, and take your dog to the vet for possible sutures, antibiotics, and pain management.",
+    "urgency": "urgent",
+    "keywords": ["cut", "swelling", "dog", "injury"],
+    "species": "dog",
+    "category": "trauma"
+  },
+  {
+    "id": 111,
+    "question": "My cat is coughing occasionally but is playful and eating well. Should I worry?",
+    "answer": "Occasional mild coughing is usually routine. Could be due to hairballs or minor irritation. Monitor for worsening, persistent cough, or breathing difficulties.",
+    "urgency": "routine",
+    "keywords": ["coughing", "cat", "routine"],
+    "species": "cat",
+    "category": "respiratory"
+  },
+  {
+    "id": 112,
+    "question": "My dog has swallowed a sock. What should I do?",
+    "answer": "Swallowing a foreign object is urgent. Contact your vet immediately. Do not try to induce vomiting without veterinary guidance, as some objects can cause obstruction or damage.",
+    "urgency": "urgent",
+    "keywords": ["foreign object", "swallowing", "dog", "emergency"],
+    "species": "dog",
+    "category": "GI"
+  },
+  {
+    "id": 113,
+    "question": "My cat is scratching excessively and has red patches. Could it be fleas?",
+    "answer": "Excessive scratching with red patches is urgent. Fleas, mites, or allergies are possible causes. Use veterinarian-recommended flea treatment and consult your vet if scratching continues.",
+    "urgency": "urgent",
+    "keywords": ["scratching", "red patches", "cat", "skin", "fleas"],
+    "species": "cat",
+    "category": "skin"
+  },
+  {
+    "id": 114,
+    "question": "My dog is vomiting foam but is otherwise playful. What should I do?",
+    "answer": "Vomiting foam occasionally is usually routine, possibly due to an empty stomach. Feed small meals and monitor. If vomiting persists, includes blood, or your dog becomes lethargic, see a vet.",
+    "urgency": "routine",
+    "keywords": ["vomiting", "foam", "dog", "routine"],
+    "species": "dog",
+    "category": "GI"
+  },
+  {
+    "id": 115,
+    "question": "My cat has a swollen mammary gland and seems in pain. What should I do?",
+    "answer": "Swollen mammary glands can be urgent, especially if painful. Could indicate infection or mastitis. Take your cat to the vet for assessment and treatment.",
+    "urgency": "urgent",
+    "keywords": ["swollen mammary gland", "cat", "pain", "infection"],
+    "species": "cat",
+    "category": "reproductive"
+  },
+  
+  {
+    "id": 116,
+    "question": "What vaccinations does my puppy need and when?",
+    "answer": "Puppies require a series of vaccinations starting at 6-8 weeks of age, including distemper, parvovirus, adenovirus, and rabies. Booster shots are given every 3-4 weeks until 16 weeks. Consult your vet for a tailored schedule.",
+    "urgency": "routine",
+    "keywords": ["vaccination", "puppy", "immunization", "schedule"],
+    "species": "dog",
+    "category": "preventivecare"
+  },
+  {
+    "id": 117,
+    "question": "How do I know if my cat is overweight?",
+    "answer": "You can tell if your cat is overweight by feeling for its ribs, which should be easily felt but not visible, and checking its waistline when viewed from above. Overweight cats may have a lack of waist definition and a sagging belly. Consult your vet for a full assessment.",
+    "urgency": "routine",
+    "keywords": ["overweight", "cat", "weight", "health"],
+    "species": "cat",
+    "category": "nutrition"
+  },
+  {
+    "id": 118,
+    "question": "What are the symptoms of flea infestation in dogs?",
+    "answer": "Common symptoms of flea infestation include constant scratching, biting, red irritated skin, hair loss, and small black flea dirt in the fur. Severe infestations can cause anemia. Consult your vet for proper treatment options.",
+    "urgency": "urgent",
+    "keywords": ["flea", "infestation", "dog", "itching", "skin"],
+    "species": "dog",
+    "category": "parasites"
+  },
+  {
+    "id": 119,
+    "question": "How can I prevent ticks on my dog?",
+    "answer": "Prevent ticks by using vet-recommended tick prevention treatments such as spot-on products, collars, or oral medications. Avoid tall grasses and woods during tick season and check your dog regularly after outdoor activities.",
+    "urgency": "routine",
+    "keywords": ["ticks", "prevention", "dog", "parasites"],
+    "species": "dog",
+    "category": "parasites"
+  },
+  {
+    "id": 120,
+    "question": "What should I feed my senior dog?",
+    "answer": "Senior dogs benefit from a diet lower in calories but rich in fiber, antioxidants, and joint-supporting nutrients such as glucosamine. Consult your vet to select a diet tailored to your dog's health conditions and activity level.",
+    "urgency": "routine",
+    "keywords": ["diet", "senior dog", "nutrition"],
+    "species": "dog",
+    "category": "nutrition"
+  },
+  {
+    "id": 121,
+    "question": "How often should I brush my pet's teeth?",
+    "answer": "Ideally, brush your pet's teeth daily or at least several times a week to prevent tartar buildup and dental disease. Use pet-safe toothpaste and a soft-bristled toothbrush designed for animals.",
+    "urgency": "routine",
+    "keywords": ["dental care", "brushing", "pet teeth"],
+    "species": "all",
+    "category": "dentalcare"
+  },
+  {
+    "id": 122,
+    "question": "What are common signs of arthritis in pets?",
+    "answer": "Signs of arthritis include stiffness, limping, reluctance to jump or climb stairs, decreased activity, and behavioral changes such as irritability. Early vet diagnosis can help manage symptoms effectively.",
+    "urgency": "urgent",
+    "keywords": ["arthritis", "pain", "joint", "mobility"],
+    "species": "dog",
+    "category": "disease"
+  },
+  {
+    "id": 123,
+    "question": "How do I introduce a new pet to my home?",
+    "answer": "Introduce new pets gradually in a neutral area, supervise their initial interactions, and provide separate food and resting areas. Monitor their behavior closely and give each pet plenty of attention to prevent jealousy.",
+    "urgency": "routine",
+    "keywords": ["introduction", "new pet", "behavior"],
+    "species": "all",
+    "category": "behavior"
+  },
+  {
+    "id": 124,
+    "question": "Can dogs eat chocolate safely?",
+    "answer": "No, chocolate is toxic to dogs and can cause serious health problems such as vomiting, diarrhea, rapid heartbeat, seizures, and even death. Seek immediate veterinary care if your dog consumes chocolate.",
+    "urgency": "emergency",
+    "keywords": ["chocolate", "toxicity", "dog", "poisoning"],
+    "species": "dog",
+    "category": "emergencypoisoning"
+  },
+  {
+    "id": 125,
+    "question": "What is the best diet for a diabetic cat?",
+    "answer": "Diabetic cats often benefit from a high-protein, low-carbohydrate diet that helps regulate blood sugar levels. Consult your vet to develop a feeding plan suitable for your cat’s diabetes management.",
+    "urgency": "routine",
+    "keywords": ["diabetes", "diet", "cat", "nutrition"],
+    "species": "cat",
+    "category": "nutrition"
+  },
+
+  
+  {
+    "id": 126,
+    "question": "How can I prevent ticks on my dog?",
+    "answer": "Use vet-recommended tick prevention treatments like spot-on products, collars, or oral meds. Avoid tall grass and check your dog regularly after outdoor activities.",
+    "urgency": "routine",
+    "keywords": ["ticks", "prevention", "dog", "parasites"],
+    "species": "dog",
+    "category": "parasites"
+  },
+  {
+    "id": 127,
+    "question": "What should I feed my senior dog?",
+    "answer": "Feed senior dogs a diet lower in calories but rich in fiber, antioxidants, and joint-supporting nutrients like glucosamine. Consult your vet for personalized advice.",
+    "urgency": "routine",
+    "keywords": ["diet", "senior dog", "nutrition"],
+    "species": "dog",
+    "category": "nutrition"
+  },
+  {
+    "id": 128,
+    "question": "What are the symptoms of ear infections in pets?",
+    "answer": "Symptoms include head shaking, scratching at ears, redness, discharge, odor, and sometimes swelling. Consult your vet for diagnosis and treatment.",
+    "urgency": "urgent",
+    "keywords": ["ear infection", "symptoms", "pets"],
+    "species": "all",
+    "category": "disease"
+  },
+  {
+    "id": 129,
+    "question": "How do I administer medication to my cat?",
+    "answer": "Use pill pockets, crush medication into food if safe, or use a pill syringe. Be calm and gentle to reduce stress during administration.",
+    "urgency": "routine",
+    "keywords": ["medication", "cat", "administer"],
+    "species": "cat",
+    "category": "treatment"
+  },
+  {
+    "id": 130,
+    "question": "Can cats get heartworm disease?",
+    "answer": "Yes, cats can get heartworm, but it's less common than in dogs. Symptoms can be subtle; preventive treatment is recommended by vets in high-risk areas.",
+    "urgency": "routine",
+    "keywords": ["heartworm", "cats", "disease"],
+    "species": "cat",
+    "category": "disease"
+  },
+  {
+    "id": 131,
+    "question": "How do I know if my pet is dehydrated?",
+    "answer": "Signs include dry gums, lethargy, sunken eyes, decreased skin elasticity, and reduced urination. If suspected, offer water and see a vet promptly.",
+    "urgency": "urgent",
+    "keywords": ["dehydration", "symptoms", "pets"],
+    "species": "all",
+    "category": "emergency"
+  },
+  {
+    "id": 132,
+    "question": "What should I do if my dog is limping?",
+    "answer": "Check for injuries, swelling, or wounds. Limit activity and visit a vet if limping persists or worsens to diagnose possible fractures or arthritis.",
+    "urgency": "urgent",
+    "keywords": ["limping", "dog", "injury"],
+    "species": "dog",
+    "category": "emergency"
+  },
+  {
+    "id": 133,
+    "question": "How can I help a pet with anxiety?",
+    "answer": "Provide a calm environment, use calming aids, follow a routine, and consult a vet for behavioral therapy or medication if needed.",
+    "urgency": "routine",
+    "keywords": ["anxiety", "pet", "behavior"],
+    "species": "all",
+    "category": "behavior"
+  },
+  {
+    "id": 134,
+    "question": "What are symptoms of urinary tract infections in pets?",
+    "answer": "Frequent urination, straining, blood in urine, and accidents inside the house are common signs. Vet diagnosis and antibiotics are often required.",
+    "urgency": "urgent",
+    "keywords": ["urinary tract infection", "symptoms", "pets"],
+    "species": "all",
+    "category": "disease"
+  },
+  {
+    "id": 135,
+    "question": "How often should I bathe my dog?",
+    "answer": "Bath frequency depends on breed and activity; generally every 4-6 weeks is sufficient. Use dog-specific shampoos and ensure thorough rinsing.",
+    "urgency": "routine",
+    "keywords": ["bathing", "dog", "hygiene"],
+    "species": "dog",
+    "category": "hygiene"
+  },
+  {
+    "id": 136,
+    "question": "Can pets get food allergies?",
+    "answer": "Yes, symptoms include itching, digestive upset, and ear infections. Identify allergens with your vet and switch to hypoallergenic diets if needed.",
+    "urgency": "routine",
+    "keywords": ["food allergy", "pets", "symptoms"],
+    "species": "all",
+    "category": "disease"
+  },
+  {
+    "id": 137,
+    "question": "How do I clean my pet’s ears safely?",
+    "answer": "Use vet-recommended ear cleaners and cotton balls. Avoid inserting cotton swabs deeply. Clean only when visibly dirty or as advised by your vet.",
+    "urgency": "routine",
+    "keywords": ["ear cleaning", "pet", "hygiene"],
+    "species": "all",
+    "category": "hygiene"
+  },
+  {
+    "id": 138,
+    "question": "What vaccinations are necessary for rabbits?",
+    "answer": "Rabbits typically need myxomatosis and rabbit hemorrhagic disease vaccinations. Consult your vet for regional vaccine recommendations and schedules.",
+    "urgency": "routine",
+    "keywords": ["rabbit", "vaccination", "preventive care"],
+    "species": "rabbit",
+    "category": "preventivecare"
+  },
+  {
+    "id": 139,
+    "question": "What should I do if my pet eats something toxic?",
+    "answer": "Contact your vet or poison control immediately. Do not induce vomiting unless instructed. Provide details about the substance and your pet’s size and condition.",
+    "urgency": "emergency",
+    "keywords": ["poisoning", "toxic ingestion", "emergency"],
+    "species": "all",
+    "category": "emergencypoisoning"
+  },
+  {
+    "id": 140,
+    "question": "How can I detect signs of arthritis in pets?",
+    "answer": "Look for stiffness, reluctance to move, limping, difficulty climbing stairs, or behavioral changes indicating pain. Early vet intervention can improve quality of life.",
+    "urgency": "urgent",
+    "keywords": ["arthritis", "pets", "signs"],
+    "species": "all",
+    "category": "disease"
+  },
+  {
+    "id": 141,
+    "question": "Can pets get sunburned?",
+    "answer": "Yes, especially those with light skin or thin coats. Limit sun exposure, use pet-safe sunblock, and provide shade during peak sunlight hours.",
+    "urgency": "routine",
+    "keywords": ["sunburn", "pets", "skin care"],
+    "species": "all",
+    "category": "preventivecare"
+  },
+  {
+    "id": 142,
+    "question": "How often should I take my rabbit to the vet?",
+    "answer": "Routine check-ups every 6-12 months are recommended to monitor health, dental condition, and prevent disease. Seek immediate care if illness is suspected.",
+    "urgency": "routine",
+    "keywords": ["rabbit", "vet visit", "check-up"],
+    "species": "rabbit",
+    "category": "preventivecare"
+  },
+  {
+    "id": 143,
+    "question": "What are common signs of dental disease in pets?",
+    "answer": "Bad breath, drooling, difficulty eating, red gums, and loose teeth are signs. Regular dental care and vet exams are essential.",
+    "urgency": "urgent",
+    "keywords": ["dental disease", "pets", "symptoms"],
+    "species": "all",
+    "category": "dentalcare"
+  },
+  {
+    "id": 144,
+    "question": "How can I introduce a new pet to my existing pets?",
+    "answer": "Introduce pets gradually, supervise interactions, ensure separate spaces initially, and provide equal attention to reduce stress and aggression.",
+    "urgency": "routine",
+    "keywords": ["pet introduction", "behavior", "new pet"],
+    "species": "all",
+    "category": "behavior"
+  },
+  {
+    "id": 145,
+    "question": "How do I train my puppy not to bite?",
+    "answer": "Redirect biting to toys, use positive reinforcement for gentle play, and avoid aggressive reactions. Consistency and patience are key.",
+    "urgency": "routine",
+    "keywords": ["puppy", "training", "biting"],
+    "species": "dog",
+    "category": "behavior"
+  },
+  {
+    "id": 146,
+    "question": "What vaccinations are recommended for outdoor cats?",
+    "answer": "Vaccinations for rabies, feline viral rhinotracheitis, calicivirus, and panleukopenia are recommended. Vets may suggest others based on risk factors.",
+    "urgency": "routine",
+    "keywords": ["cat", "vaccination", "outdoor"],
+    "species": "cat",
+    "category": "preventivecare"
+  },
+  {
+    "id": 147,
+    "question": "What are signs of heatstroke in pets?",
+    "answer": "Excessive panting, drooling, lethargy, vomiting, and collapse signal heatstroke. Immediate vet care is critical.",
+    "urgency": "emergency",
+    "keywords": ["heatstroke", "pets", "symptoms"],
+    "species": "all",
+    "category": "emergency"
+  },
+  {
+    "id": 148,
+    "question": "How do I help my pet during thunderstorms?",
+    "answer": "Create a safe, quiet space, use calming aids, and maintain a calm demeanor. Consult your vet about anxiety medications if needed.",
+    "urgency": "routine",
+    "keywords": ["thunderstorm", "anxiety", "pets"],
+    "species": "all",
+    "category": "behavior"
+  },
+  {
+    "id": 149,
+    "question": "What''s the right temperature for reptile pets?",
+    "answer": "Optimal temperatures vary by species but generally include a basking area 10-15°F warmer than the rest of the enclosure. Use thermometers and heating devices to maintain suitable habitat.",
+    "urgency": "routine",
+    "keywords": ["reptile", "temperature", "care"],
+    "species": "reptile",
+    "category": "environment"
+  },
+  {
+    "id": 150,
+    "question": "What are safe household plants for pets?",
+    "answer": "Safe plants include spider plant, bamboo, and Boston fern. Avoid toxic plants like lilies, azaleas, and philodendrons.",
+    "urgency": "routine",
+    "keywords": ["plants", "pets", "toxicity"],
+    "species": "all",
+    "category": "environment"
+  }
+ 
+]
+
+
+

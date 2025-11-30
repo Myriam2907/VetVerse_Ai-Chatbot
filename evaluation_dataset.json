@@ -1,0 +1,17 @@
+[
+  {
+    "question": "My cat is vomiting and has diarrhea. What should I do?",
+    "expected_answer": "This is an emergency condition. You must take your cat to a veterinarian immediately.",
+    "is_emergency": true
+  },
+  {
+    "question": "How often should I feed my dog?",
+    "expected_answer": "Adult dogs are typically fed twice a day.",
+    "is_emergency": false
+  },
+  {
+    "question": "My puppy ate chocolate. What should I do?",
+    "expected_answer": "Chocolate ingestion is toxic and requires immediate veterinary care.",
+    "is_emergency": true
+  }
+]
