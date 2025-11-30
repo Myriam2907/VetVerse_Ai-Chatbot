@@ -1,7 +1,7 @@
 # 🐾 FREE VET Chatbot - Complete Setup Guide
 
 ## 100% Free, No API Costs, Runs Locally
-[![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31.0-orange?style=flat-square&logo=streamlit)](https://streamlit.io/)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-0.4.22-red?style=flat-square)](https://www.trychroma.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
