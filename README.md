@@ -119,19 +119,19 @@ Progress will show:
 ---
 ## 💡 Usage Examples
 
-![Q1](screenshots_demo/Q4.png)  
-![Q2](screenshots_demo/Q1.png) 
-![Q3](screenshots_demo/Q2.png) 
-![Q4](screenshots_demo/Q3.png) 
+![Q1](screenshots_demo/Q4.JPG)  
+![Q2](screenshots_demo/Q1.JPG) 
+![Q3](screenshots_demo/Q2.JPG) 
+![Q4](screenshots_demo/Q3.JPG) 
 
-## evaluation (add something here to be pro)
+## evaluation 
 
-![Evaluation](screenshots_demo/eva.png) 
+![Evaluation](screenshots_demo/eva.JPG) 
 
 ## Architecture Overview
 The FREE VET Chatbot uses a Retrieval-Augmented Generation (RAG) approach powered by a local LLM. The workflow is:
 
-![Architecture](screenshots_demo/archi.png) 
+![Architecture](screenshots_demo/archi.JPG) 
 
 ## ⚠️ Disclaimer
 
